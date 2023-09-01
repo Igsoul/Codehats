@@ -1,2 +1,4 @@
 # Codehats
-This is my first repo
+
+This is my first GIT repo
+
