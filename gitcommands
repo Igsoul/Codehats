@@ -1,0 +1,17 @@
+# GIT COMMANDS 
+
+# GIT COMMANDS YOU SHOULD KNOW
+
+ls - list the files and directories in the current directory
+<br>
+ls - list the files and directories in the current directory
+<br>
+mkdir - create a new directory
+<br>
+git add (file name) - to add a file in git repo 
+<br>
+git status - to check your file/folder status where the file is added/commited in a git repo
+<br>
+git commit --amend  - to apply changes in git repo 
+<br>
+
